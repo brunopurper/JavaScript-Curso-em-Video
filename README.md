@@ -4,5 +4,5 @@
 ![](https://gustavoguanabara.github.io/images/mascote-javascript.png)
 
 
-# Meu aprendizado (dia 1):
-
+# Meu aprendizado (Módulo A):
+Acabei terminando o módulo A no primiero dia do curso, literalmente a maioria das coisas que foram apresentadas ali, eu já sabia, como a estrutura básica de HTML e alguns comandos básicos de JavaScript, como: 
